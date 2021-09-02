@@ -1,7 +1,7 @@
 Config = {}
 
 -- language of the scirpt
-Config.Locale = 'de' -- available is ('de','en')
+Config.Locale = 'de' -- available is ('de','en','fr')
 
 Config.RepairCaroTime1 = 60--seconds        How long should it take to repair the body in the event of minor damage        
 Config.RepairCaroTime2 = 120--seconds       How long should it take to repair the body with moderate damage
